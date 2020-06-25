@@ -3,8 +3,11 @@
 Effective date: June 19th, 2020
 
 If you have any questions or problems when using our application, please contact us.
-Email：martinluthersu@gmail.com
-TEl: +8615618094136
+
+**Email：martinluthersu@gmail.com**
+
+**TEl: +8615618094136**
+
 
 We know you care about how your personal information is used and shared, and we take your privacy seriously. 
 Please read the following to learn more about our Privacy Policy. By using or accessing the Services in any manner, you acknowledge that you accept the practices and policies outlined in this Privacy Policy, and you hereby consent that we will collect, use, and share your information in the following ways.
