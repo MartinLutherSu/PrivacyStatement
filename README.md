@@ -1,10 +1,13 @@
-## Privacy Policy
+## Privacy Policy & App Technical Support For All
 
 Effective date: June 19th, 2020
 
+If you have any questions or problems when using our application, please contact us.
+Email：martinluthersu@gmail.com
+TEl: +8615618094136
+
 We know you care about how your personal information is used and shared, and we take your privacy seriously. 
 Please read the following to learn more about our Privacy Policy. By using or accessing the Services in any manner, you acknowledge that you accept the practices and policies outlined in this Privacy Policy, and you hereby consent that we will collect, use, and share your information in the following ways.
-
 
 ### 1. What does this Privacy Policy cover?
 This Privacy Policy covers our treatment of personally identifiable information (“Personal Information”) that we gather when you are accessing or using our Services, but not the practices of companies we don’t own or control, or people that we don’t manage. We gather various types of Personal Information from our users, as explained in more detail below, and we use this Personal Information internally in connection with our Services, including to personalize, provide, and improve our Services, and to analyze how you use the Services.In certain cases, we may also share some Personal Information with third parties, but only as described below.
